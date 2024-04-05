@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "andrewstirling.io"
+title                    : "My Portfolio"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "   " # site tagline that appears below site title in masthead
 name                     : "Andrew Stirling"
 description              : "My portfolio website."
 url                      : https://andrewstirling.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "Andrew Stirling"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Master's Student."
+  bio              : "Master's Student in Mechanical Engineering at McGill University."
   location         : "Montreal, Canada"
-  email            :
+  email            : "andrewipstirling@gmail.com"
   links:
     - label: "andrewipstirling@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
@@ -138,8 +138,6 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       url: https://gitlab.cs.mcgill.ca/andrew.stirling2
-
-
 # Reading Files
 include:
   - .htaccess
